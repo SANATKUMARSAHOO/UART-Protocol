@@ -92,4 +92,4 @@ The waveform shows `tx_data` being loaded on each `tx_start` pulse, followed by 
 
 ## Author
 
-Sanat Kumar Sahoo
+Dinesh Behera
